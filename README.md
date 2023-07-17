@@ -1,4 +1,5 @@
-### Hi there 👋
+![Rishi's GitHub Banner](./assets/Rishi.gif)
+
 
 <!--
 **rbhatia4245/rbhatia4245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
