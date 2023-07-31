@@ -4,7 +4,8 @@
 [![Credly Badge](https://img.shields.io/badge/Credly-certifications?logo=credly&logoColor=white&color=0D76A8)](https://www.credly.com/users/rishi-bhatia.a312fc52/badges)
 
 
-<h3 align="center">Aspiring data professional, former support engineer. Experienced in working backwards from customer requirements to technical solutions.</h3>
+<h3 align="center">Software Engineer</h3>
+<h3 align="center">Application, Back-end service, Data Warehousing</h3>
 
 - 🔭 I’m currently working on [Used Car Price Prediction](https://usedcarpriceprediction-b7nb7ctowa-uc.a.run.app/)
 
