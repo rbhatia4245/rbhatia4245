@@ -1,5 +1,3 @@
-![Rishi's GitHub Banner](./assets/Rishi.gif)
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rishibhatiaa/)
 [![Credly Badge](https://img.shields.io/badge/Credly-certifications?logo=credly&logoColor=white&color=0D76A8)](https://www.credly.com/users/rishi-bhatia.a312fc52/badges)
 
