@@ -3,9 +3,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rishibhatiaa/)
 [![Credly Badge](https://img.shields.io/badge/Credly-certifications?logo=credly&logoColor=white&color=0D76A8)](https://www.credly.com/users/rishi-bhatia.a312fc52/badges)
 
-- 🔭 I’m currently working on [Used Car Price Prediction](https://usedcarpriceprediction-b7nb7ctowa-uc.a.run.app/)
-
-- 🌱 I’m currently learning **Spark, Flask, Google Cloud, Machine Learning Models**
 
 - 📫 How to reach me **rbhatia4245@gmail.com**
 
